@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android1</string>
+    <string name="login">login</string>
+    <string name="log_in">Log In</string>
+    <string name="cancel">cancel</string>
+    <string name="enter_name">Enter name</string>
+    <string name="myname">
+        my name is tejaswi
+    </string>
+</resources>
